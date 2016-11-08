@@ -5,7 +5,7 @@
 - 设置验证：调用api时要用特定的api_key
 - 上面的api_key一般是要注册之后才能生成
 - 比较大型的网站的api则有更高的门槛:
-- - 注册一个app用来获得token,api_key,甚至前面对应的secret
+- 注册一个app用来获得token,api_key,甚至前面对应的secret
 
 坑爹的是使用twitter的api不知为啥连接不上去...
 
