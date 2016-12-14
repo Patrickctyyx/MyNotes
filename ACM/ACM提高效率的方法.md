@@ -7,6 +7,7 @@
 freopen("in.txt","r",stdin);  
 
 ```
+- 最后提交的时候一定要注释掉，不然会有Runtime Error
 
 ## 一键给数组赋初值
 
